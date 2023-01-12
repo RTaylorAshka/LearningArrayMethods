@@ -112,5 +112,5 @@ function partition(arr, callback) {
 
         return acc;
 
-    } [[],[]]);
+    }, [[],[]]);
 }
